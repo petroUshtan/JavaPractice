@@ -10,7 +10,7 @@ import java.awt.event.*;
 public class Dialog4 extends JFrame {
     protected JTextField t1 ;
     protected JTextField t2 ;
-    JLabel l1 = new JLabel("Input: ");
+    JLabel l1 = new JLabel("Input:    ");
     JLabel l2 = new JLabel("Output: ");
     protected JButton b1 = new JButton("Copy");
     protected Container c;

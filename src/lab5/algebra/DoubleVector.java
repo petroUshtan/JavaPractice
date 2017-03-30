@@ -1,4 +1,4 @@
-package laba5.algebra;
+package lab5.algebra;
 
 /**
  * Created by Petro on 06.03.2017.

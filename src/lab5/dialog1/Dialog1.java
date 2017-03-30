@@ -1,4 +1,4 @@
-package laba5.dialog1;
+package lab5.dialog1;
 
 import javax.swing.*;
 import java.awt.*;

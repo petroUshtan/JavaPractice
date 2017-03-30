@@ -1,11 +1,10 @@
-package laba5.algebra;
+package lab5.algebra;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
-import java.lang.reflect.Executable;
 
 /**
  * Created by Petro on 06.03.2017.
