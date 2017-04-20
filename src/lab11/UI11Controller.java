@@ -24,6 +24,7 @@ public class UI11Controller {
             Double h=new Double(tfH.getText());
             Double y=new Double(0);
             Double x=new Double(0);
+            taOutput.clear();
             for(int i=0;i<n;i++){
                 y=A*Math.sqrt(x)*Math.sin(A*x);
                 taOutput.setText(taOutput.getText()+x+"          "+y+"\n");

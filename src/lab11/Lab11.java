@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class Lab10 extends Application {
+public class Lab11 extends Application {
 
     public static void main(String[] args) {
         launch(args);
